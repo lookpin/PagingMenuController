@@ -1,0 +1,22 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "PagingMenuController"
+provides-nominal:
+- "20PagingMenuControllerAAV"
+provides-member:
+- ["20PagingMenuControllerAAV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "PagingMenuController"
+- "StringLiteralType"
+depends-member:
+- ["20PagingMenuControllerAAV", "init"]
+- ["20PagingMenuControllerAAV", "text"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+depends-nominal:
+- "20PagingMenuControllerAAV"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/yoonsaegyeol/Desktop/PagingMenuController/.build/x86_64-apple-macosx/debug/PagingMenuController.build/module.modulemap"
+interface-hash: "a8814fd2e6a136ff3c114e3faf2e04d4"

@@ -1,0 +1,14 @@
+{
+  "builtTestProducts" : [
+
+  ],
+  "copyCommands" : {
+
+  },
+  "swiftTargetMap" : {
+    "C.PagingMenuController-debug.module" : "PagingMenuController"
+  },
+  "testDiscoveryCommands" : {
+
+  }
+}

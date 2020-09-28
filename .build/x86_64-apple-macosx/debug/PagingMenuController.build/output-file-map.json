@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/yoonsaegyeol/Desktop/PagingMenuController/.build/x86_64-apple-macosx/debug/PagingMenuController.build/master.swiftdeps"
+  },
+  "/Users/yoonsaegyeol/Desktop/PagingMenuController/Sources/PagingMenuController/PagingMenuController.swift": {
+    "dependencies": "/Users/yoonsaegyeol/Desktop/PagingMenuController/.build/x86_64-apple-macosx/debug/PagingMenuController.build/PagingMenuController.d",
+    "object": "/Users/yoonsaegyeol/Desktop/PagingMenuController/.build/x86_64-apple-macosx/debug/PagingMenuController.build/PagingMenuController.swift.o",
+    "swiftmodule": "/Users/yoonsaegyeol/Desktop/PagingMenuController/.build/x86_64-apple-macosx/debug/PagingMenuController.build/PagingMenuController~partial.swiftmodule",
+    "swift-dependencies": "/Users/yoonsaegyeol/Desktop/PagingMenuController/.build/x86_64-apple-macosx/debug/PagingMenuController.build/PagingMenuController.swiftdeps"
+  }
+}

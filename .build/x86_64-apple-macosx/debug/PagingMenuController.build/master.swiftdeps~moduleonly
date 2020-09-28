@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.3 (swiftlang-1200.0.29.2 clang-1200.0.30.1)"
+options: "4c00873ec77f8c6fe8a23cb95e62d280"
+build_time: [1601275916, 141876000]
+inputs:
+  "/Users/yoonsaegyeol/Desktop/PagingMenuController/Sources/PagingMenuController/PagingMenuController.swift": [1601275746, 962537428]

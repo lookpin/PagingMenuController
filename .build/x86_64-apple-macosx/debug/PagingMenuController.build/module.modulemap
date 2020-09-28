@@ -1,0 +1,4 @@
+module PagingMenuController {
+    header "/Users/yoonsaegyeol/Desktop/PagingMenuController/.build/x86_64-apple-macosx/debug/PagingMenuController.build/PagingMenuController-Swift.h"
+    requires objc
+}
